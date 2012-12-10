@@ -1,0 +1,15 @@
+{
+  "name": "ajel",
+  "version": "0.0.0",
+  "description": "Arel like query builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "",
+  "keywords": [
+    "ajel"
+  ],
+  "author": "Taiyoh",
+  "license": "BSD"
+}
